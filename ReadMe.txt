@@ -1,0 +1,1 @@
+Spam bot was created for WhatsApp Desktop version 2.2146.9.0
