@@ -21,6 +21,7 @@ def letsgo():
     time.sleep(0.5)
     pyautogui.write(name)
     time.sleep(1)
+    pyautogui.press('tab')
     pyautogui.press("enter")
     time.sleep(1)
     for i in range(reps):
